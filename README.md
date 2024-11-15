@@ -1,4 +1,4 @@
-# Instacart-Customer-Behavior-Analysis
+
 # Customer Behavior Analysis Project
 
 ## Project Overview
