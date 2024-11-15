@@ -1,0 +1,31 @@
+cluster,product_name,count
+0,Banana,178100
+0,Bag of Organic Bananas,163548
+0,Organic Strawberries,117577
+0,Organic Hass Avocado,94616
+0,Organic Baby Spinach,91398
+0,Organic Whole Milk,63247
+0,Organic Raspberries,62852
+0,Organic Avocado,58935
+0,Limes,51876
+0,Large Lemon,51304
+1,Banana,259374
+1,Bag of Organic Bananas,180866
+1,Organic Baby Spinach,132374
+1,Organic Strawberries,130200
+1,Organic Avocado,103731
+1,Organic Hass Avocado,103328
+1,Large Lemon,87896
+1,Strawberries,81186
+1,Limes,78247
+1,Organic Whole Milk,64021
+2,Banana,35091
+2,Bag of Organic Bananas,35036
+2,Organic Baby Spinach,18149
+2,Organic Strawberries,16906
+2,Organic Hass Avocado,15640
+2,Organic Avocado,14149
+2,Large Lemon,13457
+2,Strawberries,12306
+2,Organic Raspberries,11668
+2,Organic Whole Milk,10637
